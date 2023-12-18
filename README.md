@@ -2,7 +2,9 @@
 
 Turtlebot3 Autonomous Navigation / SLAM
 
+## Library Used
 
+- Actionlib
 
 
 ## Prerequisites
@@ -12,7 +14,7 @@ Before you get started, make sure you have the following installed:
 - [ROS (Robot Operating System)](http://www.ros.org/) (Noetic)
 - Turtlebot3
 - Python
-- libraries used : Actionlib
+
 - Basic Mathematics
 
 ## Installation
