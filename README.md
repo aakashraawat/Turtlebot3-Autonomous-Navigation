@@ -9,7 +9,7 @@ Turtlebot3 Autonomous Navigation / SLAM
 
 Before you get started, make sure you have the following installed:
 
-- [ROS (Robot Operating System)](http://www.ros.org/)
+- [ROS (Robot Operating System)](http://www.ros.org/) (Noetic)
 - Turtlebot3
 - Python
 - Basic Mathematics
