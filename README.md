@@ -20,4 +20,5 @@ Before you get started, make sure you have the following installed:
 
    ```bash
    https://github.com/aakashraawat/Turtlebot3-Autonomous-Navigation.git
-Code for getting current position and navigation in in the auto_nav package 
+
+2. Code for getting current position and navigation in in the auto_nav package 
