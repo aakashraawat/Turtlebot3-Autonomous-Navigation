@@ -10,9 +10,9 @@ Turtlebot3 Autonomous Navigation / SLAM
 Before you get started, make sure you have the following installed:
 
 - [ROS (Robot Operating System)](http://www.ros.org/)
-- Google Tensor Flow
 - Turtlebot3
 - Python
+- Basic Mathematics
 
 ## Installation
 
@@ -20,3 +20,4 @@ Before you get started, make sure you have the following installed:
 
    ```bash
    https://github.com/aakashraawat/Turtlebot3-Autonomous-Navigation.git
+Code for getting current position and navigation in in the auto_nav package 
